@@ -1,0 +1,2289 @@
+Index: .idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml	(revision )
++++ .idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.javassist:javassist:3.20.0-GA">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-aop:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b30.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b30.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2:hk2-utils:2.5.0-b30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.5.0-b30/hk2-utils-2.5.0-b30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.5.0-b30/hk2-utils-2.5.0-b30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.5.0-b30/hk2-utils-2.5.0-b30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml	(revision )
++++ .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:jcl-over-slf4j:1.7.22">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.22/jcl-over-slf4j-1.7.22-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml	(revision )
++++ .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.5">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.5/jackson-annotations-2.8.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml	(revision )
++++ .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_22.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.22">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.22/slf4j-log4j12-1.7.22.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.22/slf4j-log4j12-1.7.22-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.22/slf4j-log4j12-1.7.22-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml	(revision )
++++ .idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.hibernate:hibernate-validator:5.2.4.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__jline_jline_0_9_94.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__jline_jline_0_9_94.xml	(revision )
++++ .idea/libraries/Maven__jline_jline_0_9_94.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: jline:jline:0.9.94">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/jline/jline/0.9.94/jline-0.9.94-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml	(revision )
++++ .idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/1.4.0/thymeleaf-layout-dialect-1.4.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/1.4.0/thymeleaf-layout-dialect-1.4.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/1.4.0/thymeleaf-layout-dialect-1.4.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml	(revision )
++++ .idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:slf4j-api:1.7.22">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml	(revision )
++++ .idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.yaml:snakeyaml:1.17">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.17/snakeyaml-1.17-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/JerseyClient.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/JerseyClient.java	(revision )
++++ src/main/java/org/weweb/web/JerseyClient.java	(revision )
+@@ -0,0 +1,72 @@
++/*
++package org.weweb.web;
++
++*/
++/**
++ * Created by wshen on 2017/1/3.
++ *//*
++
++import com.sun.deploy.util.SessionState;
++import org.apache.catalina.WebResource;
++import org.glassfish.jersey.client.ClientConfig;
++import org.glassfish.jersey.client.ClientResponse;
++
++import java.net.URI;
++import java.util.Iterator;
++
++import javax.ws.rs.core.MediaType;
++import javax.ws.rs.core.MultivaluedMap;
++import javax.ws.rs.core.UriBuilder;
++
++
++
++public class JerseyClient {
++
++	public static void main(String[] args) {
++		// 要使用Jersey Client API，必须首先创建Client的实例
++		// 有以下两种创建Client实例的方式
++
++		// 方式一
++		ClientConfig cc = new DefaultClientConfig();
++		cc.getProperties().put(ClientConfig.PROPERTY_CONNECT_TIMEOUT, 10 * 1000);
++		// Client实例很消耗系统资源，需要重用
++		// 创建web资源，创建请求，接受响应都是线程安全的
++		// 所以Client实例和WebResource实例可以在多个线程间安全的共享
++		SessionState.Client client = SessionState.Client.create(cc);
++
++		// 方式二
++		// Client client = Client.create();
++		// client.setConnectTimeout(10*1000);
++		// client.getProperties().put(ClientConfig.PROPERTY_CONNECT_TIMEOUT,
++		// 10*1000);
++
++		// WebResource将会继承Client中timeout的配置
++		WebResource resource = client.resource("http://127.0.0.1:10000/service/sean?desc=description");
++
++		String str = resource.accept(MediaType.TEXT_PLAIN).type(MediaType.TEXT_PLAIN).get(String.class);
++		System.out.println("String:" + str);
++
++		URI uri = UriBuilder.fromUri("http://127.0.0.1/service/sean").port(10000).queryParam("desc", "description")
++				.build();
++		resource = client.resource(uri);
++
++		// header方法可用来添加HTTP头
++		ClientResponse response = resource.header("auth", "123456").accept(MediaType.TEXT_PLAIN)
++				.type(MediaType.TEXT_PLAIN).get(ClientResponse.class);
++		// 将HTTP响应打印出来
++		System.out.println("****** HTTP response ******");
++		StringBuilder strBuilder = new StringBuilder();
++		strBuilder.append("HTTP/1.1 ");
++		strBuilder.append(response.getStatus() + " ");
++		strBuilder.append(response.getStatusInfo() + "[\\r\\n]");
++		System.out.println(strBuilder.toString());
++		MultivaluedMap<String, String> headers = response.getHeaders();
++		Iterator<String> iterator = headers.keySet().iterator();
++		while (iterator.hasNext()) {
++			String headName = iterator.next();
++			System.out.println(headName + ":" + headers.get(headName) + "[\\r\\n]");
++		}
++		System.out.println("[\\r\\n]");
++		System.out.println(response.getEntity(String.class) + "[\\r\\n]");
++	}
++}*/
+Index: .idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-context:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/artifacts/weweb_springboot_Web_exploded.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/artifacts/weweb_springboot_Web_exploded.xml	(revision )
++++ .idea/artifacts/weweb_springboot_Web_exploded.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="ArtifactManager">
++  <artifact type="exploded-war" name="weweb-springboot:Web exploded">
++    <output-path>$PROJECT_DIR$/out/artifacts/weweb_springboot_Web_exploded</output-path>
++    <root id="root">
++      <element id="javaee-facet-resources" facet="weweb-springboot/web/Web" />
++      <element id="directory" name="WEB-INF">
++        <element id="directory" name="classes">
++          <element id="module-output" name="weweb-springboot" />
++        </element>
++      </element>
++    </root>
++  </artifact>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml	(revision )
++++ .idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.validation:validation-api:1.1.0.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__log4j_log4j_1_2_16.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__log4j_log4j_1_2_16.xml	(revision )
++++ .idea/libraries/Maven__log4j_log4j_1_2_16.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: log4j:log4j:1.2.16">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.media:jersey-media-jaxb:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-jaxb/2.25/jersey-media-jaxb-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-jaxb/2.25/jersey-media-jaxb-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-jaxb/2.25/jersey-media-jaxb-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.thymeleaf:thymeleaf:2.1.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/2.1.5.RELEASE/thymeleaf-2.1.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/2.1.5.RELEASE/thymeleaf-2.1.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/2.1.5.RELEASE/thymeleaf-2.1.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-core:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: web/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- web/WEB-INF/web.xml	(revision )
++++ web/WEB-INF/web.xml	(revision )
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
++         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
++         version="3.1">
++
++
++
++    <servlet>
++        <servlet-name>Way REST Service</servlet-name>
++        <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
++        <init-param>
++            <param-name>jersey.config.server.provider.packages</param-name>
++            <param-value>org.weweb.web.HelloResource</param-value>
++        </init-param>
++        <load-on-startup>1</load-on-startup>
++    </servlet>
++
++    <servlet-mapping>
++        <servlet-name>Way REST Service</servlet-name>
++        <url-pattern>/rest/*</url-pattern>
++    </servlet-mapping>
++
++
++</web-app>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(revision )
++++ .idea/compiler.xml	(revision )
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <annotationProcessing>
++      <profile name="Maven default annotation processors profile" enabled="true">
++        <sourceOutputDir name="target/generated-sources/annotations" />
++        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
++        <outputRelativeToContentRoot value="true" />
++        <module name="weweb-springboot" />
++      </profile>
++    </annotationProcessing>
++    <bytecodeTargetLevel>
++      <module name="weweb-springboot" target="1.8" />
++    </bytecodeTargetLevel>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml	(revision )
++++ .idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.zookeeper:zookeeper:3.4.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/MyResource.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/MyResource.java	(revision )
++++ src/main/java/org/weweb/web/MyResource.java	(revision )
+@@ -0,0 +1,83 @@
++/*
++package org.weweb.web;
++
++*/
++/**
++ * Created by wshen on 2017/1/3.
++ *//*
++
++import java.io.IOException;
++import java.net.URI;
++import java.util.Iterator;
++
++import javax.ws.rs.Consumes;
++import javax.ws.rs.DefaultValue;
++import javax.ws.rs.GET;
++import javax.ws.rs.Path;
++import javax.ws.rs.PathParam;
++import javax.ws.rs.Produces;
++import javax.ws.rs.QueryParam;
++import javax.ws.rs.core.Context;
++import javax.ws.rs.core.HttpHeaders;
++import javax.ws.rs.core.MediaType;
++import javax.ws.rs.core.MultivaluedMap;
++import javax.ws.rs.core.Request;
++import javax.ws.rs.core.UriBuilder;
++import javax.ws.rs.core.UriInfo;
++
++import groovy.lang.Singleton;
++import org.glassfish.grizzly.http.server.HttpServer;
++import org.glassfish.jersey.server.ResourceConfig;
++
++
++@Singleton
++@Path("service")
++public class MyResource {
++
++	@Path("{sub_path:[a-zA-Z0-9]*}")
++	@GET
++	@Consumes({ MediaType.TEXT_PLAIN, MediaType.APPLICATION_JSON })
++	@Produces(MediaType.TEXT_PLAIN)
++	public String getResourceName(@PathParam("sub_path") String resourceName,
++			@DefaultValue("Just a test!") @QueryParam("desc") String description, @Context Request request,
++			@Context UriInfo uriInfo, @Context HttpHeaders httpHeader) {
++		System.out.println(this.hashCode());
++
++		// 将HTTP请求打印出来
++		System.out.println("****** HTTP request ******");
++		StringBuilder strBuilder = new StringBuilder();
++		strBuilder.append(request.getMethod() + " ");
++		strBuilder.append(uriInfo.getRequestUri().toString() + " ");
++		strBuilder.append("HTTP/1.1[\\r\\n]");
++		System.out.println(strBuilder.toString());
++		MultivaluedMap<String, String> headers = httpHeader.getRequestHeaders();
++		Iterator<String> iterator = headers.keySet().iterator();
++		while (iterator.hasNext()) {
++			String headName = iterator.next();
++			System.out.println(headName + ":" + headers.get(headName) + "[\\r\\n]");
++		}
++		System.out.println("[\\r\\n]");
++		String responseStr = resourceName + "[" + description + "]";
++		return responseStr;
++	}
++
++	public static void main(String[] args) {
++		URI uri = UriBuilder.fromUri("http://127.0.0.1").port(10000).build();
++		ResourceConfig rc = new PackagesResourceConfig("com.sean");
++		try {
++			HttpServer server = GrizzlyServerFactory.createHttpServer(uri, rc);
++			server.start();
++		} catch (IllegalArgumentException e) {
++			e.printStackTrace();
++		} catch (NullPointerException e) {
++			e.printStackTrace();
++		} catch (IOException e) {
++			e.printStackTrace();
++		}
++		try {
++			Thread.sleep(1000 * 1000);
++		} catch (InterruptedException e) {
++			e.printStackTrace();
++		}
++	}
++}*/
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-thymeleaf/1.4.3.RELEASE/spring-boot-starter-thymeleaf-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-thymeleaf/1.4.3.RELEASE/spring-boot-starter-thymeleaf-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-thymeleaf/1.4.3.RELEASE/spring-boot-starter-thymeleaf-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/HelloWorld.java	(revision )
++++ src/main/java/org/weweb/web/HelloWorld.java	(revision )
+@@ -0,0 +1,26 @@
++package org.weweb.web;
++
++import org.springframework.boot.SpringApplication;
++import org.springframework.boot.autoconfigure.SpringBootApplication;
++import org.springframework.web.bind.annotation.RequestMapping;
++import org.springframework.web.bind.annotation.RestController;
++
++/**
++ * Created by wshen on 2017/1/5.
++ */
++@SpringBootApplication
++@RestController
++public class HelloWorld {
++
++    @RequestMapping("/hello")
++    public String hello() {
++        return "Hello World!";
++    }
++    @RequestMapping("/")
++    public String greeting() {
++        return "greeting Hello World!";
++    }
++    public static void main(String[] args) {
++        SpringApplication.run(HelloWorld.class, args);
++    }
++}
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter-web:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/1.4.3.RELEASE/spring-boot-starter-web-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/1.4.3.RELEASE/spring-boot-starter-tomcat-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/1.4.3.RELEASE/spring-boot-starter-tomcat-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/1.4.3.RELEASE/spring-boot-starter-tomcat-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/HelloResource.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/HelloResource.java	(revision )
++++ src/main/java/org/weweb/web/HelloResource.java	(revision )
+@@ -0,0 +1,30 @@
++package org.weweb.web;
++
++/**
++ * Created by wshen on 2017/1/4.
++ */
++
++import javax.ws.rs.GET;
++import javax.ws.rs.Path;
++import javax.ws.rs.Produces;
++import javax.ws.rs.PathParam;
++import javax.ws.rs.core.MediaType;
++
++
++@Path("/hello")
++public class HelloResource {
++    @GET
++    @Produces(MediaType.APPLICATION_JSON)
++    public String sayHello() {
++        return "Hello World!" ;
++    }
++
++
++    @GET
++    @Path("/{param}")
++    @Produces("text/plain;charset=UTF-8")
++    public String sayHelloToUTF8(@PathParam("param") String username) {
++        return "Hello " + username;
++    }
++
++}
+\ No newline at end of file
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pom.xml	(revision )
++++ pom.xml	(revision )
+@@ -0,0 +1,92 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
++         xmlns="http://maven.apache.org/POM/4.0.0"
++         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
++    <modelVersion>4.0.0</modelVersion>
++    <groupId>spring-boot</groupId>
++    <artifactId>spring-boot-weweb</artifactId>
++    <version>1.0-SNAPSHOT</version>
++    <packaging>jar</packaging>
++
++    <name>weweb-spring-boot</name>
++    <parent>
++        <groupId>org.springframework.boot</groupId>
++        <artifactId>spring-boot-starter-parent</artifactId>
++        <version>1.4.3.RELEASE</version>
++        <relativePath/>
++    </parent>
++
++    <properties>
++        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
++        <java.version>1.8</java.version>
++    </properties>
++
++    <dependencies>
++        <dependency>
++            <groupId>org.springframework.boot</groupId>
++            <artifactId>spring-boot-starter-web</artifactId>
++        </dependency>
++
++
++        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-server -->
++        <dependency>
++            <groupId>org.glassfish.jersey.core</groupId>
++            <artifactId>jersey-server</artifactId>
++            <version>2.25</version>
++        </dependency>
++        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-servlet -->
++        <dependency>
++            <groupId>org.glassfish.jersey.containers</groupId>
++            <artifactId>jersey-container-servlet</artifactId>
++            <version>2.25</version>
++        </dependency>
++
++
++        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-grizzly2-http -->
++        <dependency>
++            <groupId>org.glassfish.jersey.containers</groupId>
++            <artifactId>jersey-container-grizzly2-http</artifactId>
++            <version>2.25</version>
++        </dependency>
++
++        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client -->
++        <dependency>
++            <groupId>org.glassfish.jersey.core</groupId>
++            <artifactId>jersey-client</artifactId>
++            <version>2.25</version>
++        </dependency>
++        <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-grizzly2 -->
++        <!--       <dependency>
++                   <groupId>org.glassfish.jersey.test-framework.providers</groupId>
++                   <artifactId>jersey-test-framework-provider-grizzly2</artifactId>
++                   <version>2.25</version>
++               </dependency>-->
++
++        <dependency>
++            <groupId>org.springframework.boot</groupId>
++            <artifactId>spring-boot-starter-thymeleaf</artifactId>
++        </dependency>
++        <!--zookeeper-->
++        <dependency>
++            <groupId>org.apache.zookeeper</groupId>
++            <artifactId>zookeeper</artifactId>
++            <version>3.4.9</version>
++        </dependency>
++        <dependency>
++            <groupId>org.apache.zookeeper</groupId>
++            <artifactId>zookeeper</artifactId>
++            <version>3.4.6</version>
++        </dependency>
++    </dependencies>
++
++    <build>
++        <plugins>
++            <plugin>
++                <groupId>org.springframework.boot</groupId>
++                <artifactId>spring-boot-maven-plugin</artifactId>
++            </plugin>
++        </plugins>
++    </build>
++
++
++</project>
+\ No newline at end of file
+Index: src/main/java/org/weweb/zookeeper/AbstractZookeeper.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/zookeeper/AbstractZookeeper.java	(revision )
++++ src/main/java/org/weweb/zookeeper/AbstractZookeeper.java	(revision )
+@@ -0,0 +1,31 @@
++package org.weweb.zookeeper;
++
++import org.apache.zookeeper.WatchedEvent;
++import org.apache.zookeeper.Watcher;
++import org.apache.zookeeper.ZooKeeper;
++
++import java.io.IOException;
++import java.util.concurrent.CountDownLatch;
++
++/**
++ * Created by wshen on 2017/2/22.
++ */
++public class AbstractZookeeper implements Watcher{
++    //缓冲时间
++    private static final int SESSION_TIME=2000;
++    protected ZooKeeper zooKeeper;
++    protected CountDownLatch countDownLatch=new CountDownLatch(1);
++    public void connect(String hots) throws InterruptedException, IOException {
++        zooKeeper=new ZooKeeper(hots,SESSION_TIME,this);
++        countDownLatch.await();
++    }
++    @Override
++    public void process(WatchedEvent watchedEvent) {
++            if (watchedEvent.getState()== Event.KeeperState.SyncConnected){
++                countDownLatch.countDown();
++            }
++    }
++    public void close() throws InterruptedException {
++        zooKeeper.close();
++    }
++}
+Index: .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_23_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_23_2.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_23_2.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.containers:jersey-container-servlet-core:2.23.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet-core/2.23.2/jersey-container-servlet-core-2.23.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet-core/2.23.2/jersey-container-servlet-core-2.23.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet-core/2.23.2/jersey-container-servlet-core-2.23.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml	(revision )
++++ .idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml:classmate:1.3.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.3.3/classmate-1.3.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.3.3/classmate-1.3.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__ognl_ognl_3_0_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__ognl_ognl_3_0_8.xml	(revision )
++++ .idea/libraries/Maven__ognl_ognl_3_0_8.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: ognl:ognl:3.0.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/3.0.8/ognl-3.0.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/3.0.8/ognl-3.0.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/ognl/ognl/3.0.8/ognl-3.0.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml	(revision )
++++ .idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:log4j-over-slf4j:1.7.22">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.22/log4j-over-slf4j-1.7.22.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.22/log4j-over-slf4j-1.7.22-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/log4j-over-slf4j/1.7.22/log4j-over-slf4j-1.7.22-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet/2.25/jersey-container-servlet-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet/2.25/jersey-container-servlet-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-servlet/2.25/jersey-container-servlet-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_3_28.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_3_28.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_3_28.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.grizzly:grizzly-framework:2.3.28">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-framework/2.3.28/grizzly-framework-2.3.28-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b30.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b30.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2:hk2-locator:2.5.0-b30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-locator/2.5.0-b30/hk2-locator-2.5.0-b30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-locator/2.5.0-b30/hk2-locator-2.5.0-b30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-locator/2.5.0-b30/hk2-locator-2.5.0-b30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml	(revision )
++++ .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.5">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.5/jackson-core-2.8.5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.5/jackson-core-2.8.5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.5/jackson-core-2.8.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__junit_junit_4_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__junit_junit_4_12.xml	(revision )
++++ .idea/libraries/Maven__junit_junit_4_12.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: junit:junit:4.12">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(revision )
++++ .idea/modules.xml	(revision )
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/weweb-springboot.iml" filepath="$PROJECT_DIR$/weweb-springboot.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/DefaultClientConfig.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/DefaultClientConfig.java	(revision )
++++ src/main/java/org/weweb/web/DefaultClientConfig.java	(revision )
+@@ -0,0 +1,9 @@
++package org.weweb.web;
++
++import org.glassfish.jersey.client.ClientConfig;
++
++/**
++ * Created by wshen on 2017/1/3.
++ */
++public class DefaultClientConfig extends ClientConfig {
++}
+Index: .idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml	(revision )
++++ .idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.annotation:javax.annotation-api:1.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml	(revision )
++++ .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.6/tomcat-embed-websocket-8.5.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.6/tomcat-embed-websocket-8.5.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.6/tomcat-embed-websocket-8.5.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml	(revision )
++++ .idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml	(revision )
++++ .idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:jul-to-slf4j:1.7.22">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.22/jul-to-slf4j-1.7.22.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.22/jul-to-slf4j-1.7.22-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.22/jul-to-slf4j-1.7.22-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-webmvc:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: weweb-springboot.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- weweb-springboot.iml	(revision )
++++ weweb-springboot.iml	(revision )
+@@ -0,0 +1,95 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
++  <component name="FacetManager">
++    <facet type="web" name="Web">
++      <configuration>
++        <descriptors>
++          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
++        </descriptors>
++        <webroots>
++          <root url="file://$MODULE_DIR$/web" relative="/" />
++        </webroots>
++        <sourceRoots>
++          <root url="file://$MODULE_DIR$/src/main/java" />
++          <root url="file://$MODULE_DIR$/src/main/resources" />
++        </sourceRoots>
++      </configuration>
++    </facet>
++  </component>
++  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
++    <output url="file://$MODULE_DIR$/target/classes" />
++    <output-test url="file://$MODULE_DIR$/target/test-classes" />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
++      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
++      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
++      <excludeFolder url="file://$MODULE_DIR$/target" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.1.8" level="project" />
++    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.1.8" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.22" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.22" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:log4j-over-slf4j:1.7.22" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.6" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.6" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.6" level="project" />
++    <orderEntry type="library" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" level="project" />
++    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.3.3" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.5" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.5" level="project" />
++    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.5" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-aop:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-context:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.core:jersey-server:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.core:jersey-common:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.bundles.repackaged:jersey-guava:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1" level="project" />
++    <orderEntry type="library" name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.media:jersey-media-jaxb:2.25" level="project" />
++    <orderEntry type="library" name="Maven: javax.annotation:javax.annotation-api:1.2" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-api:2.5.0-b30" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-utils:2.5.0-b30" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b30" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2.external:javax.inject:2.5.0-b30" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.hk2:hk2-locator:2.5.0-b30" level="project" />
++    <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
++    <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet-core:2.23.2" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.grizzly:grizzly-http-server:2.3.28" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.grizzly:grizzly-http:2.3.28" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.grizzly:grizzly-framework:2.3.28" level="project" />
++    <orderEntry type="library" name="Maven: org.glassfish.jersey.core:jersey-client:2.25" level="project" />
++    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.4.3.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf:2.1.5.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: ognl:ognl:3.0.8" level="project" />
++    <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.0.RELEASE" level="project" />
++    <orderEntry type="library" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" level="project" />
++    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:2.4.7" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.zookeeper:zookeeper:3.4.6" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.22" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:slf4j-log4j12:1.7.22" level="project" />
++    <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
++    <orderEntry type="library" name="Maven: jline:jline:0.9.94" level="project" />
++    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
++    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty:3.7.0.Final" level="project" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-web:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/zookeeper/ZookeeperOperator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/zookeeper/ZookeeperOperator.java	(revision )
++++ src/main/java/org/weweb/zookeeper/ZookeeperOperator.java	(revision )
+@@ -0,0 +1,57 @@
++package org.weweb.zookeeper;
++
++import org.apache.zookeeper.CreateMode;
++import org.apache.zookeeper.KeeperException;
++import org.apache.zookeeper.ZooDefs;
++
++import java.util.List;
++
++/**
++ * Created by wshen on 2017/2/22.
++ */
++public class ZookeeperOperator extends AbstractZookeeper {
++	public void create(String path, byte[] data) throws KeeperException, InterruptedException {
++		this.zooKeeper.create(path, data, ZooDefs.Ids.OPEN_ACL_UNSAFE, CreateMode.PERSISTENT);
++	}
++
++	public void getChild(String path) throws KeeperException, InterruptedException {
++		List<String> list = this.zooKeeper.getChildren(path, false);
++		if (list.isEmpty()) {
++			System.out.println(path + "中没有节点");
++
++
++
++
++		} else {
++			System.out.println(path + "中存在节点");
++			for (String child : list) {
++				System.out.println("节点为：" + child);
++			}
++		}
++	}
++
++	public byte[] getData(String path) throws KeeperException, InterruptedException {
++		return this.zooKeeper.getData(path, false, null);
++	}
++
++	public static void main(String[] args) {
++		try {
++			ZookeeperOperator zookeeperOperator = new ZookeeperOperator();
++			String ip1="192.168.137.101";
++			String ip2="192.168.137.102";
++			String ip3="192.168.137.103";
++
++			zookeeperOperator.connect(ip1+","+ip2+","+ip3);
++			byte[] data = new byte[] { 'a', 'b', 'c', 'd' };
++			String zktest = "Zookeeper的Java API测试";
++			//zookeeperOperator.create("/root", zktest.getBytes());
++			System.out.println("获取设置的信息：" + new String(zookeeperOperator.getData("/root")));
++			System.out.println("节点孩子信息：");
++			zookeeperOperator.getChild("/root");
++			zookeeperOperator.close();
++		} catch (Exception e) {
++			e.printStackTrace();
++		}
++
++	}
++}
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/encodings.xml	(revision )
++++ .idea/encodings.xml	(revision )
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml	(revision )
++++ .idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty:3.7.0.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.7.0.Final/netty-3.7.0.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.7.0.Final/netty-3.7.0.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.4.3.RELEASE/spring-boot-starter-logging-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.4.3.RELEASE/spring-boot-starter-logging-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.4.3.RELEASE/spring-boot-starter-logging-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b30.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b30.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2.external:aopalliance-repackaged:2.5.0-b30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b30/aopalliance-repackaged-2.5.0-b30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b30/aopalliance-repackaged-2.5.0-b30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b30/aopalliance-repackaged-2.5.0-b30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-expression:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b30.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b30.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2.external:javax.inject:2.5.0-b30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/javax.inject/2.5.0-b30/javax.inject-2.5.0-b30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/javax.inject/2.5.0-b30/javax.inject-2.5.0-b30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/javax.inject/2.5.0-b30/javax.inject-2.5.0-b30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.bundles.repackaged:jersey-guava:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25/jersey-guava-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25/jersey-guava-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25/jersey-guava-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_3_28.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_3_28.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_3_28.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.grizzly:grizzly-http-server:2.3.28">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http-server/2.3.28/grizzly-http-server-2.3.28-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml	(revision )
++++ .idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_7.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.codehaus.groovy:groovy:2.4.7">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.7/groovy-2.4.7.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.7/groovy-2.4.7-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy/2.4.7/groovy-2.4.7-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2:osgi-resource-locator:1.0.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.core:jersey-server:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.25/jersey-server-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.25/jersey-server-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-server/2.25/jersey-server-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(revision )
++++ .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision )
++++ .idea/misc.xml	(revision )
+@@ -0,0 +1,76 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="EclipseCodeFormatter">
++    <option name="defaultSettings" value="true" />
++    <option name="formatter" value="ECLIPSE" />
++    <option name="id" value="1482315262661" />
++    <option name="name" value="default" />
++    <option name="pathToConfigFileJava" value="D:/Program Files (x86)/JetBrains/configuration/format.xml" />
++    <option name="selectedJavaProfile" value="sst" />
++  </component>
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectInspectionProfilesVisibleTreeState">
++    <entry key="Project Default">
++      <profile-state>
++        <expanded-state>
++          <State>
++            <id />
++          </State>
++          <State>
++            <id>Android</id>
++          </State>
++          <State>
++            <id>Android &gt; Lint &gt; Correctness</id>
++          </State>
++          <State>
++            <id>Android &gt; Lint &gt; Performance</id>
++          </State>
++          <State>
++            <id>CorrectnessLintAndroid</id>
++          </State>
++          <State>
++            <id>GSPGrailsGroovy</id>
++          </State>
++          <State>
++            <id>General</id>
++          </State>
++          <State>
++            <id>GrailsGroovy</id>
++          </State>
++          <State>
++            <id>Groovy</id>
++          </State>
++          <State>
++            <id>Kotlin</id>
++          </State>
++          <State>
++            <id>LintAndroid</id>
++          </State>
++          <State>
++            <id>Maven</id>
++          </State>
++          <State>
++            <id>Plugin DevKit</id>
++          </State>
++          <State>
++            <id>XPath</id>
++          </State>
++        </expanded-state>
++        <selected-state>
++          <State>
++            <id>Android</id>
++          </State>
++        </selected-state>
++      </profile-state>
++    </entry>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.core:jersey-common:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.25/jersey-common-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.25/jersey-common-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.25/jersey-common-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework:spring-beans:4.3.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml	(revision )
++++ .idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.5">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.5/jackson-databind-2.8.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.3.RELEASE/spring-boot-autoconfigure-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_3_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_3_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_3_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.springframework.boot:spring-boot-starter:1.4.3.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.4.3.RELEASE/spring-boot-starter-1.4.3.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.4.3.RELEASE/spring-boot-starter-1.4.3.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.4.3.RELEASE/spring-boot-starter-1.4.3.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml	(revision )
++++ .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.6/tomcat-embed-core-8.5.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.6/tomcat-embed-core-8.5.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.6/tomcat-embed-core-8.5.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b30.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b30.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b30.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.hk2:hk2-api:2.5.0-b30">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-api/2.5.0-b30/hk2-api-2.5.0-b30.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-api/2.5.0-b30/hk2-api-2.5.0-b30-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-api/2.5.0-b30/hk2-api-2.5.0-b30-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml	(revision )
++++ .idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.ws.rs:javax.ws.rs-api:2.0.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.unbescape:unbescape:1.1.0.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.0.RELEASE/unbescape-1.1.0.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.0.RELEASE/unbescape-1.1.0.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.0.RELEASE/unbescape-1.1.0.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision )
++++ .idea/vcs.xml	(revision )
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="D:\github\test\weweb-springboot\weweb-parent" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_grizzly2_http_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_grizzly2_http_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_grizzly2_http_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25/jersey-container-grizzly2-http-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25/jersey-container-grizzly2-http-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/containers/jersey-container-grizzly2-http/2.25/jersey-container-grizzly2-http-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_8.xml	(revision )
++++ .idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_8.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: ch.qos.logback:logback-classic:1.1.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.8/logback-classic-1.1.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.8/logback-classic-1.1.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.8/logback-classic-1.1.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml	(revision )
++++ .idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/thymeleaf-spring4-2.1.5.RELEASE.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/thymeleaf-spring4-2.1.5.RELEASE-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring4/2.1.5.RELEASE/thymeleaf-spring4-2.1.5.RELEASE-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_3_28.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_3_28.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_3_28.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.grizzly:grizzly-http:2.3.28">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/grizzly/grizzly-http/2.3.28/grizzly-http-2.3.28-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__ch_qos_logback_logback_core_1_1_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__ch_qos_logback_logback_core_1_1_8.xml	(revision )
++++ .idea/libraries/Maven__ch_qos_logback_logback_core_1_1_8.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: ch.qos.logback:logback-core:1.1.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.8/logback-core-1.1.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.8/logback-core-1.1.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.8/logback-core-1.1.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml	(revision )
++++ .idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/8.5.6/tomcat-embed-el-8.5.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/8.5.6/tomcat-embed-el-8.5.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/8.5.6/tomcat-embed-el-8.5.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: src/main/java/org/weweb/web/TestAscillPassword.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/org/weweb/web/TestAscillPassword.java	(revision )
++++ src/main/java/org/weweb/web/TestAscillPassword.java	(revision )
+@@ -0,0 +1,88 @@
++package org.weweb.web;
++
++import java.util.ArrayList;
++import java.util.List;
++
++/**
++ * Created by wshen on 2017/1/5.
++ */
++public class TestAscillPassword {
++   /* public static void testPassword(){
++        String firstPassword="A123456ACb";
++        firstPassword="123abc.33A";
++        char [] passwords=firstPassword.toCharArray();
++        StringBuilder sb=new StringBuilder();
++        for (int i=0;i<passwords.length;i++){
++            int passInt=(int)passwords[i];
++            //  int passSecInt=(passInt+102)*2-3;
++            int passSecInt=passInt*2+201;
++            System.out.println("first:"+passSecInt);
++            sb.append(passSecInt);
++        }
++        String decPassword=sb.toString();
++        System.out.println("开始密码："+firstPassword+"\t 加密后的密码："+decPassword);
++        System.out.println(decPassword.length());
++        char[] chars1=decPassword.toCharArray();
++
++        List<String> stringList=new ArrayList<>();
++        String tt="";
++        for (int i=0;i<chars1.length;i++){
++            // System.out.print(chars1[i]+"\t");
++            if ((i+1)%3!=0){
++                tt+=chars1[i];
++            }else {
++                tt+=chars1[i];
++                stringList.add(tt);
++                tt="";
++            }
++        }
++        stringList.forEach(s-> System.out.print(s+"\t"));
++        StringBuilder descResult=new StringBuilder();
++        for (String string:stringList){
++            int m1=Integer.valueOf(string);
++            int m2=(m1+3)/2-102;
++            char c1= (char) m2;
++            descResult.append(c1);
++        }
++        System.out.println("解密后的内容："+descResult.toString());
++    }*/
++   public static void main(String[] args) {
++       String password="0001230000abc./|3943433A ~";
++       System.out.println("加密前的值："+password);
++       String enPassword=encryption(password);
++       System.out.println("加密后的值："+enPassword);
++       System.out.println("解密后的值："+decrypt(enPassword));
++   }
++    public static String encryption(String password){
++        char [] passwords=password.toCharArray();
++        StringBuilder sb=new StringBuilder();
++        for (int i=0;i<passwords.length;i++){
++            int passInt=(int)passwords[i];
++            int passSecInt=passInt*2+201;
++            sb.append(passSecInt);
++        }
++        return sb.toString();
++    }
++    public static String decrypt(String password){
++        char[] passwordChars=password.toCharArray();
++        List<String> passwordCharsList=new ArrayList<>();
++        String tempChar="";
++        for (int i=0;i<passwordChars.length;i++){
++            if ((i+1)%3!=0){
++                tempChar+=passwordChars[i];
++            }else {
++                tempChar+=passwordChars[i];
++                passwordCharsList.add(tempChar);
++                tempChar="";
++            }
++        }
++        StringBuilder descResult=new StringBuilder();
++        for (String pChar:passwordCharsList){
++            int m1=Integer.valueOf(pChar);
++            int m2=(m1+3)/2-102;
++            char c1= (char) m2;
++            descResult.append(c1);
++        }
++        return descResult.toString();
++    }
++}
+Index: .idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_25.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_25.xml	(revision )
++++ .idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_25.xml	(revision )
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.glassfish.jersey.core:jersey-client:2.25">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.25/jersey-client-2.25.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.25/jersey-client-2.25-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.25/jersey-client-2.25-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
