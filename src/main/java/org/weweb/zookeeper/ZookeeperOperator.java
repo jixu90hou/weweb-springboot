@@ -3,6 +3,7 @@ package org.weweb.zookeeper;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.ZooDefs;
+import org.apache.zookeeper.data.Stat;
 
 import java.util.List;
 
@@ -18,10 +19,6 @@ public class ZookeeperOperator extends AbstractZookeeper {
 		List<String> list = this.zooKeeper.getChildren(path, false);
 		if (list.isEmpty()) {
 			System.out.println(path + "中没有节点");
-
-
-
-
 		} else {
 			System.out.println(path + "中存在节点");
 			for (String child : list) {
@@ -33,7 +30,9 @@ public class ZookeeperOperator extends AbstractZookeeper {
 	public byte[] getData(String path) throws KeeperException, InterruptedException {
 		return this.zooKeeper.getData(path, false, null);
 	}
-
+	public Stat exist(String path) throws KeeperException, InterruptedException {
+		return this.zooKeeper.exists(path,true);
+	}
 	public static void main(String[] args) {
 		try {
 			ZookeeperOperator zookeeperOperator = new ZookeeperOperator();
@@ -48,6 +47,8 @@ public class ZookeeperOperator extends AbstractZookeeper {
 			System.out.println("获取设置的信息：" + new String(zookeeperOperator.getData("/root")));
 			System.out.println("节点孩子信息：");
 			zookeeperOperator.getChild("/root");
+			Stat stat=zookeeperOperator.exist("/root/child5");
+			System.err.println("节点是否存在："+(stat!=null));
 			zookeeperOperator.close();
 		} catch (Exception e) {
 			e.printStackTrace();
